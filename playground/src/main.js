@@ -5,5 +5,5 @@ const app = createApp(App);
 app.component('super-graph-view', defineAsyncComponent(() => import('../../mod')));
 
 
-import App from './app.vue';
+import App from './App.vue';
 app.mount('#app');
