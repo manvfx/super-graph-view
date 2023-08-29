@@ -1,0 +1,33 @@
+{
+  "name": "super-graph-view",
+  "version": "0.0.1",
+  "description": "Graph view for vue js",
+  "main": "mod.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "unified",
+    "form",
+    "form element",
+    "vuetify"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manvfx/super-graph-view.git"
+  },
+  "author": "Mohammad Amin Najafi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manvfx/super-graph-view/issues"
+  },
+  "homepage": "https://github.com/manvfx/super-graph-view#readme",
+  "files": [
+    "./mod.js",
+    "lib/"
+  ],
+  "dependencies": {
+    "vue": "^3.3.4"
+  }
+}
