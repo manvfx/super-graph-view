@@ -5,5 +5,3 @@
     <super-graph-view />
   </div>
 </template>
-
-<style scoped></style>
